@@ -12,7 +12,6 @@ window.onload = function(){
     var heightInBlocks = canvasHeight/blockSize;
     var score;
     var timeOut;
-    
     init();
     
     function init(){
